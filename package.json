@@ -1,10 +1,10 @@
 {
-  "name": "mouse-icon-wheel",
+  "name": "Mouse Icon Wheel",
   "version": "1.0.0",
   "description": "Simple СSS3 animation to indicate the possibility of scrolling on a page of your site.",
-  "main": "build.sass",
+  "main": "css/goodshare.min.css",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "./node_modules/.bin/webpack ./build.sass ./css/goodshare.min.css -p"
   },
   "repository": {
     "type": "git",
