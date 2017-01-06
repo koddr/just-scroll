@@ -1,0 +1,67 @@
+/*
+ *  Animations
+ */
+
+.mouse-icon .wheel
+
+  /* Modern browsers */
+
+  animation-name: drop
+  animation-delay: 0s
+  animation-duration: 1s
+  animation-play-state: running
+  animation-timing-function: linear
+  animation-iteration-count: infinite
+
+  /* WebKit */
+
+  -webkit-animation-name: drop
+  -webkit-animation-delay: 0s
+  -webkit-animation-duration: 1s
+  -webkit-animation-play-state: running
+  -webkit-animation-timing-function: linear
+  -webkit-animation-iteration-count: infinite
+
+  /* Mozilla FireFox 16.0 and lower */
+
+  -moz-animation-name: drop
+  -moz-animation-delay: 0s
+  -moz-animation-duration: 1s
+  -moz-animation-play-state: running
+  -moz-animation-timing-function: linear
+  -moz-animation-iteration-count: infinite
+
+  /* Opera 12.10 and lower */
+
+  -o-animation-name: drop
+  -o-animation-delay: 0s
+  -o-animation-duration: 1s
+  -o-animation-play-state: running
+  -o-animation-timing-function: linear
+  -o-animation-iteration-count: infinite
+
+/*
+ *  Keyframes
+ */
+
+@keyframes drop
+  0%
+    top: 5px
+    opacity: 0
+  30%
+    top: 10px
+    opacity: 1
+  100%
+    top: 25px
+    opacity: 0
+
+@-webkit-keyframes drop
+  0%
+    top: 5px
+    opacity: 0
+  30%
+    top: 10px
+    opacity: 1
+  100%
+    top: 25px
+    opacity: 0

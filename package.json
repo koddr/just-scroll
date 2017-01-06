@@ -1,0 +1,23 @@
+{
+  "name": "mouse-icon-wheel",
+  "version": "1.0.0",
+  "description": "Simple СSS3 animation to indicate the possibility of scrolling on a page of your site.",
+  "main": "build.sass",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koddr/mouse-icon-wheel.git"
+  },
+  "keywords": [
+    "mouse wheel",
+    "css3 animation"
+  ],
+  "author": "Vikky Shostak <vikkyshostak@gmail.com> (https://koddr.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/koddr/mouse-icon-wheel/issues"
+  },
+  "homepage": "https://github.com/koddr/mouse-icon-wheel#readme"
+}
