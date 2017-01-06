@@ -1,10 +1,10 @@
 {
-  "name": "Mouse Icon Wheel",
+  "name": "mouse-icon-wheel",
   "version": "1.0.0",
   "description": "Simple СSS3 animation to indicate the possibility of scrolling on a page of your site.",
-  "main": "css/goodshare.min.css",
+  "main": "css/mouse-icon-wheel.min.css",
   "scripts": {
-    "build": "./node_modules/.bin/webpack ./build.sass ./css/goodshare.min.css -p"
+    "build": "./node_modules/.bin/webpack ./build.sass ./css/mouse-icon-wheel.min.css -p"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,12 @@
   "bugs": {
     "url": "https://github.com/koddr/mouse-icon-wheel/issues"
   },
-  "homepage": "https://github.com/koddr/mouse-icon-wheel#readme"
+  "homepage": "https://github.com/koddr/mouse-icon-wheel#readme",
+  "devDependencies": {
+    "css-loader": "^0.26.1",
+    "node-sass": "^4.1.1",
+    "sass-loader": "^4.1.1",
+    "style-loader": "^0.13.1",
+    "webpack": "^2.1.0-beta.28"
+  }
 }
