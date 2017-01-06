@@ -2,6 +2,8 @@
 
 Simple СSS3 animation to indicate the possibility of scrolling on a page of your site.
 
+[<img src="https://koddr.me/images/projects/mouse-icon-wheel-logo-github.gif" alt="mouse icon wheel" width="100%" />]
+
 ## Features
 
 * Work on all modern and many older browsers
