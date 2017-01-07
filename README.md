@@ -35,7 +35,7 @@ $ npm install just-scroll --save
 @import('just-scroll')
 ```
 
-* Good. Now, add special container with `just-scroll`, `.to-down` (or `.to-up` if you want to indicate _scroll up_ action) and `.color-*` classes:
+* Good. Now, add special container with `.just-scroll`, `.to-down` (or `.to-up` if you want to indicate _scroll up_ action) and `.color-*` classes:
 
 ```html
 <div class="just-scroll to-down color-black">
