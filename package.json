@@ -1,6 +1,6 @@
 {
   "name": "just-scroll",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simple indicate the possibility of scrolling on a page with СSS3 animation.",
   "main": "css/just-scroll.min.css",
   "scripts": {
