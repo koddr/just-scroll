@@ -1,25 +1,26 @@
 {
-  "name": "mouse-icon-wheel",
+  "name": "just-scroll",
   "version": "1.0.0",
-  "description": "Simple СSS3 animation to indicate the possibility of scrolling on a page of your site.",
-  "main": "css/mouse-icon-wheel.min.css",
+  "description": "Simple indicate the possibility of scrolling on a page with СSS3 animation.",
+  "main": "css/just-scroll.min.css",
   "scripts": {
-    "build": "./node_modules/.bin/webpack ./build.sass ./css/mouse-icon-wheel.min.css -p"
+    "build": "./node_modules/.bin/webpack ./build.sass ./css/just-scroll.min.css -p"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/koddr/mouse-icon-wheel.git"
+    "url": "git+https://github.com/koddr/just-scroll.git"
   },
   "keywords": [
+    "just scroll",
     "mouse wheel",
     "css3 animation"
   ],
   "author": "Vikky Shostak <vikkyshostak@gmail.com> (https://koddr.me)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/koddr/mouse-icon-wheel/issues"
+    "url": "https://github.com/koddr/just-scroll/issues"
   },
-  "homepage": "https://github.com/koddr/mouse-icon-wheel#readme",
+  "homepage": "https://github.com/koddr/just-scroll#readme",
   "devDependencies": {
     "css-loader": "^0.26.1",
     "node-sass": "^4.1.1",

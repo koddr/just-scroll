@@ -1,14 +1,12 @@
-# Mouse Icon Wheel
+# Just Scroll
 
-Simple СSS3 animation to indicate the possibility of scrolling on a page of your site.
-
-<img src="https://koddr.me/images/projects/mouse-icon-wheel-logo-github.gif" alt="mouse icon wheel" />
+Simple indicate the possibility of scrolling on a page with СSS3 animation.
 
 ## Features
 
 * Work on all modern and many older browsers
-* Have _SASS_ and classic _CSS_ versions
-* Colors, helpers and more stuff
+* Have _SASS_ version for re-build (developers only)
+* Include colors, helpers and more stuff
 * Support for your issues
 
 **Desktop browsers support**
@@ -31,30 +29,66 @@ Simple СSS3 animation to indicate the possibility of scrolling on a page of you
 $ npm install mouse-icon-wheel
 ```
 
-* Next, import to builded _SASS_ (or _SCSS_) file:
+* Next, import `just-scroll` to your builded _SASS_ (or _SCSS_) file:
 
 ```sass
-@import('mouse-icon-wheel')
+@import('just-scroll')
 ```
 
-* And now, add special container with `.mouse-icon`, `.color-*` and `.wheel` classes:
+* Good. Now, add special container with `just-scroll`, `.to-down` (or `.to-up` if you want to indicate _scroll up_ action) and `.color-*` classes:
 
 ```html
-<div class="mouse-icon color-black">
-  <div class="wheel"></div>
+<div class="just-scroll to-down color-black">
+  ...
+</div>
+```
+
+* And finally, place animated element into `.just-scroll` container:
+
+```html
+<div class="just-scroll to-down color-black">
+  <div class="mouse-icon">
+    <div class="wheel"></div>
+  </div>
 </div>
 ```
 
 ### More options?
 
-Just add this class to `.mouse-icon` container:
+Just add this class to `.just-scroll` container:
+
+#### .to-*
+
+| CSS Class | Description |
+| --------- | --------- |
+| `.to-up` | Animation scroll up |
+| `.to-down` | Animation scroll down |
+
+#### .color-*
 
 | CSS Class | Description | Value |
 | --------- | --------- | --------- |
 | `.color-black` | Black color | `rgba(0, 0, 0, 1)` |
 | `.color-white` | White color | `rgba(255, 255, 255, 1)` |
 | `.color-green` | Green color | `rgba(35, 209, 96, 1)` |
-| `.centered` | Place container to center | `margin: 0 auto` |
+
+#### .centered
+
+| CSS Class | Description | Value |
+| --------- | --------- | --------- |
+| `.centered` | Place `.just-scroll` container to center of parent html element | `margin: 0 auto` |
+
+## Animated elements
+
+#### .mouse-icon
+
+<img src="https://koddr.me/images/projects/mouse-icon-wheel-logo-github.gif" alt="mouse icon wheel" />
+
+```html
+<div class="mouse-icon">
+  <div class="wheel"></div>
+</div>
+```
 
 ## License
 
