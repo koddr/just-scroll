@@ -26,7 +26,7 @@ Simple indicate the possibility of scrolling on a page with СSS3 animation.
 * First, install from `npm` to your project:
 
 ```
-$ npm install mouse-icon-wheel
+$ npm install just-scroll --save
 ```
 
 * Next, import `just-scroll` to your builded _SASS_ (or _SCSS_) file:
