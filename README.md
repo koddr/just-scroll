@@ -1,4 +1,4 @@
-# Just Scroll
+# Just Scroll [![npm version](https://badge.fury.io/js/just-scroll.svg)](https://badge.fury.io/js/just-scroll)
 
 Simple indicate the possibility of scrolling on a page with СSS3 animation.
 
