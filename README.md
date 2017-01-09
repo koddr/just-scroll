@@ -1,3 +1,5 @@
+![just scroll github logo](https://koddr.me/images/projects/just-scroll-sass-logo-github.jpg)
+
 # Just Scroll [![npm version](https://badge.fury.io/js/just-scroll.svg)](https://badge.fury.io/js/just-scroll)
 
 Simple indicate the possibility of scrolling on a page with СSS3 animation.
@@ -82,7 +84,7 @@ Just add this class to `.just-scroll` container:
 
 #### .mouse-icon
 
-<img src="https://koddr.me/images/projects/mouse-icon-wheel-logo-github.gif" alt="mouse icon wheel" />
+![just scroll sass example github](https://koddr.me/images/projects/just-scroll-sass-mouse-icon-example-github.gif)
 
 ```html
 <div class="mouse-icon">
