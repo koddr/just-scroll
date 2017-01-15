@@ -92,6 +92,14 @@ Just add this class to `.just-scroll` container:
 </div>
 ```
 
+## Developers
+
+Development and maintenance of `Just Scroll` project engaged by Vikky Shostak ([Koddr](https://koddr.me)). If you want to write a «thank you» or ask us about something, [use this e-mail](mailto:koddr.me@yandex.ru).
+
+## Your help
+
+If you want help, we will be glad reviews about `Just Scroll` on personal blogs (including Twitter), online media and/or specialized IT-portals. Thank you!
+
 ## License
 
 [The MIT License (MIT)](https://github.com/koddr/mouse-icon-wheel/blob/master/LICENSE)
