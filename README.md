@@ -84,7 +84,7 @@ Just add this class to `.just-scroll` container:
 
 #### .mouse-icon
 
-![just scroll sass example github](https://koddr.me/images/projects/just-scroll-sass-mouse-icon-example-github.gif)
+![just scroll example github](https://koddr.me/images/projects/just-scroll-sass-mouse-icon-example-github.gif?cache=1)
 
 ```html
 <div class="mouse-icon">
