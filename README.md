@@ -1,4 +1,4 @@
-![just scroll github logo](https://koddr.me/static/images/just-scroll-sass-logo-github.jpg)
+![just-scroll-sass-logo-github](https://user-images.githubusercontent.com/11155743/31406214-388f0f6a-ae09-11e7-9c01-89095f67831a.jpg)
 
 # Just Scroll [![npm version](https://badge.fury.io/js/just-scroll.svg)](https://badge.fury.io/js/just-scroll)
 
