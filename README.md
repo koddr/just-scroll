@@ -95,7 +95,7 @@ Just add this class to `.just-scroll` container:
 
 ## Developers
 
-Development and maintenance of `Just Scroll` project engaged by Vikky Shostak ([Koddr](https://koddr.me)). If you want to write a «thank you» or ask us about something, [use this e-mail](mailto:koddr.me@gmail.com).
+Development and maintenance of `Just Scroll` project engaged by Vic Shóstak (aka [Koddr](https://koddr.me)). If you want to write a «thank you» or ask us about something, [use this e-mail](mailto:koddr.me@gmail.com).
 
 ## Your help
 
