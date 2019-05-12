@@ -93,14 +93,16 @@ Just add this class to `.just-scroll` container:
 </div>
 ```
 
-## Developers
+## Author & maintainers
 
-Development and maintenance of `Just Scroll` project engaged by Vic Shóstak (aka [Koddr](https://koddr.me)). If you want to write a «thank you» or ask us about something, [use this e-mail](mailto:koddr.me@gmail.com).
+Development and maintenance engaged by [Vic Shóstak](https://github.com/koddr) (aka Koddr).
 
-## Your help
+If you want to say «thank you» or/and support active development `Just Scroll` — become a Patron!
 
-If you want help, we will be glad reviews about `Just Scroll` on personal blogs (including Twitter), online media and/or specialized IT-portals. Thank you!
+<a href="https://www.patreon.com/bePatron?u=20124951">
+  <img width="200px" src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" alt="Become a Patron!"/>
+</a>
 
 ## License
 
-[The MIT License (MIT)](https://github.com/koddr/mouse-icon-wheel/blob/master/LICENSE)
+MIT
