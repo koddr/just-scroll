@@ -94,11 +94,7 @@ Just add this class to `.just-scroll` container:
 
 Development and maintenance engaged by [Vic Shóstak](https://github.com/koddr) (aka Koddr).
 
-If you want to say «thank you» or/and support active development `Just Scroll` — become a Patron!
-
-<a href="https://www.patreon.com/bePatron?u=20124951">
-  <img width="200px" src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" alt="Become a Patron!"/>
-</a>
+If you want to say «thank you» or/and support active development `Just Scroll` — send to project's author some money via PayPal: [@paypal.me/koddr](https://paypal.me/koddr?locale.x=en_EN).
 
 ## License
 
