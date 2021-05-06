@@ -96,6 +96,8 @@ Development and maintenance engaged by [Vic Shóstak](https://github.com/koddr) 
 
 If you want to say «thank you» or/and support active development `Just Scroll` — send to project's author some money via PayPal: [@paypal.me/koddr](https://paypal.me/koddr?locale.x=en_EN).
 
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%202.svg)](https://www.digitalocean.com/?refcode=b41859fa9b6e&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
 ## License
 
 MIT
